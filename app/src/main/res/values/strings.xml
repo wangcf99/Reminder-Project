@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RemindMe</string>
+    <string name="title_activity_edit_view">EditViewActivity</string>
+    <string name="add_edit_activity_menu">Reminders</string>
+
+    <string-array name="dropdown_times">
+        <item>Everyday</item>
+        <item>Twice a day</item>
+    </string-array>
+
+</resources>
